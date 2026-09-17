@@ -1,18 +1,17 @@
 # Hi, I'm Tharaka Jayasundara 👋
 
-### Full Stack Developer | Cyber Security | Cloud Solutions
+### Full Stack Developer | Web Developer | E-commerce Solutions
 
-I build modern web applications, secure digital solutions, and scalable technology products.
+I build modern web applications, responsive digital experiences, and scalable solutions using modern web technologies.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full Stack Developer
-- 🔐 Cyber Security & SOC Experience
-- ☁️ Cloud Technologies (Azure / AWS)
-- 🌐 Web Development & E-commerce Solutions
-- 🛠️ Building reliable and user-focused applications
+- 💻 Full Stack Web Developer
+- 🌐 Building modern websites and web applications
+- 🛒 E-commerce Development (Shopify / WordPress / WooCommerce)
+- 🛠️ Creating reliable, user-friendly digital products
 
 ---
 
@@ -22,13 +21,13 @@ I build modern web applications, secure digital solutions, and scalable technolo
 React • Next.js • JavaScript • TypeScript • HTML • CSS
 
 ### Backend
-Node.js • APIs • Databases
+Node.js • APIs • Databases • Server-side Development
 
 ### CMS / E-commerce
-WordPress • WooCommerce • Shopify
+WordPress • WooCommerce • Shopify • Custom Themes & Integrations
 
-### Cloud & Security
-Azure • AWS • Cyber Security • SOC Operations
+### Tools & Technologies
+Git • GitHub • REST APIs • Responsive Design
 
 ---
 
@@ -36,15 +35,24 @@ Azure • AWS • Cyber Security • SOC Operations
 
 🚀 Full Stack Web Applications  
 🛒 E-commerce Platforms  
-🔐 Security Solutions  
-📱 Mobile Applications  
+🌐 Business Websites  
+📱 Responsive Web Solutions  
+
+---
+
+## 💼 What I Build
+
+- Modern Web Applications
+- Business Websites
+- E-commerce Stores
+- Custom Digital Solutions
 
 ---
 
 ## 📫 Connect With Me
 
 LinkedIn:
-YOUR_LINKEDIN_LINK
+https://www.linkedin.com/in/tharaka-jayasundara-4ab1813ba/
 
 Portfolio:
-YOUR_PORTFOLIO_LINK
+tharaka-portfolio-delta.vercel.app
