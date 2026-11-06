@@ -23,9 +23,6 @@ React • Next.js • JavaScript • TypeScript • HTML • CSS
 ### Backend
 Node.js • APIs • Databases • Server-side Development
 
-### CMS / E-commerce
-WordPress • WooCommerce • Shopify • Custom Themes & Integrations
-
 ### Tools & Technologies
 Git • GitHub • REST APIs • Responsive Design
 
